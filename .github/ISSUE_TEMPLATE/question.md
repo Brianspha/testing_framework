@@ -5,8 +5,8 @@ title: '[Question] '
 labels: question
 assignees: ''
 ---
-**Your question**
+## Your question 
 <!-- What would you like to know? -->
 
-**Context**
+## Context
 <!-- Add any relevant context that might help us answer -->

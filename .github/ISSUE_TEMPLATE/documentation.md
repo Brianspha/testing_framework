@@ -5,8 +5,8 @@ title: '[Docs] '
 labels: documentation
 assignees: ''
 ---
-**What documentation needs work?**
+## What documentation needs work?
 <!-- Describe what's missing, incorrect, or unclear -->
 
-**Suggested improvements**
+## Suggested improvements 
 <!-- If you have specific suggestions -->

@@ -5,11 +5,11 @@ title: '[Feature] '
 labels: enhancement
 assignees: ''
 ---
-**What feature do you want?**
+## What feature do you want?
 <!-- Describe the feature you'd like to see -->
 
-**What problem does this solve?**
+## What problem does this solve?
 <!-- Explain why this would be valuable -->
 
-**Additional context**
+## Additional context
 <!-- Add any other helpful information -->

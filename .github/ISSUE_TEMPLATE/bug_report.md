@@ -5,14 +5,14 @@ title: '[Bug] '
 labels: bug, needs triage
 assignees: ''
 ---
-**What's wrong?**
+## What's wrong?
 <!-- Describe what isn't working as expected -->
 
-**How to reproduce**
+## How to reproduce
 1. 
 
-**What should happen**
+## What should happen
 <!-- Describe what you expected instead -->
 
-**Screenshots**
+## Screenshots
 <!-- If helpful, add screenshots -->
