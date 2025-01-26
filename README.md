@@ -93,3 +93,6 @@ The planning phase will establish a roadmap for integrating the above functional
 ## Integration and Optimization
 
 *(Details to be added based on progress.)*
+
+## Contributions
+Since foundry-revive depends heavily on foundry-revive-compiler, contributions require matching branches in both repositories to ensure changes don't break compilation. This applies to any forked foundry repositories used by either project.
